@@ -1,2 +1,0 @@
-modelo,revision,base_salidas,base_mem_gb,base_seg,qlora_loss,qlora_mem_gb,qlora_seg
-BSC-LT/salamandra-7b-instruct-2606,91055ea2c907ddcf28209d2cb4e078a093ea44d8,"['neutral', 'positivo', 'neutral']",15.56,121,4.153,14.85,100

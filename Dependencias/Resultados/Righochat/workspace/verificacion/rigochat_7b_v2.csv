@@ -1,2 +1,0 @@
-modelo,revision,base_salidas,base_mem_gb,base_seg,qlora_loss,qlora_mem_gb,qlora_seg
-IIC/RigoChat-7b-v2,666a48562f47b0cc09aca23f1ae8df3d0b3ac25c,"['positivo', 'positivo', 'neutral']",15.26,119,1.6418,10.04,101

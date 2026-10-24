@@ -1,2 +1,0 @@
-modelo,revision,base_salidas,base_mem_gb,base_seg,qlora_loss,qlora_mem_gb,qlora_seg
-utter-project/EuroLLM-9B-Instruct,f7ae2bc3bcbb538c0b93fa6cfbf388d9898b1ace,"['Positivo.', 'Positivo', 'Positivo']",18.33,173,1.6358,10.53,119
