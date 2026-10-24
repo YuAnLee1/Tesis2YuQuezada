@@ -1,2 +1,0 @@
-modelo,revision,base_salidas,base_mem_gb,base_seg,qlora_loss,qlora_mem_gb,qlora_seg
-meta-llama/Llama-3.1-8B-Instruct,0e9e39f249a16976918f6564b8830bc894c89659,"['Positivo', 'Positivo', 'Neutral']",16.09,14,1.0915,9.95,4
