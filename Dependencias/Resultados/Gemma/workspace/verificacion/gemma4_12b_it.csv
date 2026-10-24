@@ -1,0 +1,2 @@
+modelo,revision,base_salidas,base_mem_gb,base_seg,qlora_loss,qlora_mem_gb,qlora_seg
+google/gemma-4-12B-it,707f0a3b8a3c7ad586ed01e27eafbad8a27dd0f7,"['negativo', 'positivo', 'neutral']",23.95,4,4.5666,13.42,5
